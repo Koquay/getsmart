@@ -1,0 +1,487 @@
+[
+    {    
+        "subjectId": "63e2739b3dad93238da85918",
+        "name":"Biodiversity",  
+        "subtopics": [
+            {
+                "name": "Interactions between Species",
+                "questions":[
+                    {"question":"What is an example of a symbiotic relationship between two species?",
+                    "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Mutualism"},
+                {"question":"In what type of relationship does one species benefit while the other is unaffected?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Commensalism"},
+                {"question":"What type of relationship involves one species living on or in the other species and causes harm to the host species?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Parasitism"},
+                {"question":"What is an example of a predator-prey relationship?",
+                "multipleChoice":["Humans and deer","Humans and plants","Birds and berries","Bees and flowers"],"answer":"Humans and deer"},
+                
+                {"question":"What type of relationship is characterized by two species living together and both benefit from the interaction?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Mutualism"},
+                {"question":"What is an example of a parasitism relationship?",
+                "multipleChoice":["Birds and plants","Humans and deer","Remora and shark","Ants and aphids"],"answer":"Remora and shark"},
+                {"question":"What type of relationship occurs when one species feeds on another species?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Predator-prey"},
+                {"question":"What is an example of a mutualism relationship?",
+                "multipleChoice":["Wolves and rabbits","Humans and plants","Insects and flowers","Clownfish and sea anemone"],"answer":"Clownfish and sea anemone"},
+                
+                {"question":"What is an example of a predator-prey relationship?",
+                "multipleChoice":["Humans and plants","Eagles and rabbits","Bees and flowers","Sharks and plankton"],"answer":"Sharks and plankton"},
+                {"question":"What type of relationship involves one species living on or in the other species but does not cause any harm?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Commensalism"},
+                {"question":"What is an example of a commensalism relationship?",
+                "multipleChoice":["Clownfish and sea anemone","Birds and plants","Eagles and rabbits","Hummingbirds and flowers"],"answer":"Clownfish and sea anemone"},
+                {"question":"What type of relationship is characterized by two species living together and both benefit from the interaction?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Mutualism"},
+                {"question":"What is an example of a mutualism relationship?",
+                "multipleChoice":["Wolves and rabbits","Humans and plants","Insects and flowers","Remora and shark"],"answer":"Insects and flowers"},
+                {"question":"What type of relationship occurs when one species feeds on another species?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Predator-prey"},
+                {"question":"What is an example of a parasitism relationship?",
+                "multipleChoice":["Birds and plants","Humans and deer","Remora and shark","Ants and aphids"],"answer":"Ants and aphids"},
+                {"question":"In what type of relationship does one species benefit while the other is unaffected?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Commensalism"},
+                {"question":"What is an example of a predator-prey relationship?",
+                "multipleChoice":["Humans and deer","Humans and plants","Birds and berries","Bees and flowers"],"answer":"Birds and berries"},
+                {"question":"What is an example of a mutualism relationship?",
+                "multipleChoice":["Wolves and rabbits","Humans and plants","Insects and flowers","Clownfish and sea anemone"],"answer":"Clownfish and sea anemone"},
+                {"question":"What force causes objects to move in a straight line unless acted upon by another force?",
+                "multipleChoice":["Friction","Inertia","Centripetal force","Gravity"],"answer":"Inertia"},
+                {"question":"What type of relationship is characterized by two species living together and both benefit from the interaction?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Mutualism"},
+                {"question":"What is an example of a symbiotic relationship between two species?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Mutualism"},
+                {"question":"What is an example of a parasitism relationship?",
+                "multipleChoice":["Birds and plants","Humans and deer","Remora and shark","Ants and aphids"],"answer":"Remora and shark"},
+                {"question":"In what type of relationship does one species benefit while the other is harmed?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Parasitism"},
+                {"question":"What is an example of a commensalism relationship?",
+                "multipleChoice":["Clownfish and sea anemone","Shark and plankton","Eagles and rabbits","Hummingbirds and flowers"],"answer":"Clownfish and sea anemone"},
+                {"question":"What is an example of a predator-prey relationship?",
+                "multipleChoice":["Humans and plants","Eagles and rabbits","Bees and flowers","Sharks and plankton"],"answer":"Sharks and plankton"},
+                {"question":"What type of relationship involves one species living on or in the other species but does not cause any harm?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Commensalism"},
+                {"question":"In what type of relationship does one species benefit while the other is unaffected?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Commensalism"},
+                {"question":"What type of relationship occurs when one species feeds on another species?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Predator-prey"},
+                {"question":"What is an example of a predator-prey relationship?",
+                "multipleChoice":["Humans and deer","Humans and plants","Birds and berries","Bees and flowers"],"answer":"Humans and deer"},
+                {"question":"What is an example of a commensalism relationship?",
+                "multipleChoice":["Clownfish and sea anemone","Birds and plants","Eagles and rabbits","Hummingbirds and flowers"],"answer":"Clownfish and sea anemone"},
+                {"question":"What type of relationship is characterized by two species living together and both benefit from the interaction?",
+                "multipleChoice":["Predator-prey","Parasitism","Mutualism","Commensalism"],"answer":"Mutualism"},
+                {"question":"What is an example of a mutualism relationship?",
+                "multipleChoice":["Wolves and rabbits","Humans and plants","Insects and flowers","Remora and shark"],"answer":"Insects"}
+            ]
+            
+            },
+
+            
+            {
+                "name": "Classification of Species",
+                "questions": [
+                    {
+                      "question": "What is the branch of biology focusing on the classification of organisms?",
+                      "multipleChoice": [ "Ecology", "Taxonomy", "Genetics", "Physiology" ],
+                      "answer": "Taxonomy"
+                    },
+                    {
+                      "question": "What is the main method used to classify organisms?",
+                      "multipleChoice": [ "Characteristics", "Environment", "Size", "Color" ],
+                      "answer": "Characteristics"
+                    },
+                    {
+                      "question": "In the Linnaean system of classification, what is the largest group?",
+                      "multipleChoice": [ "Domain", "Kingdom", "Genus", "Species" ],
+                      "answer": "Kingdom"
+                    },
+                    {
+                      "question": "What is the smaller group within a species called?",
+                      "multipleChoice": [ "Genus", "Family", "Subspecies", "Variety" ],
+                      "answer": "Subspecies"
+                    },
+                    {
+                      "question": "What is the highest taxonomic rank?",
+                      "multipleChoice": [ "Domain", "Kingdom", "Phylum", "Species" ],
+                      "answer": "Domain"
+                    },
+                    {
+                      "question": "What is the smallest taxonomic rank?",
+                      "multipleChoice": [ "Domain", "Kingdom", "Genus", "Species" ],
+                      "answer": "Species"
+                    },
+                    {
+                      "question": "What is the scientific name for organisms made up of one cell?",
+                      "multipleChoice": [ "Monera", "Protista", "Fungi", "Animalia" ],
+                      "answer": "Monera"
+                    },
+                    {
+                      "question": "What is the scientific name for multicellular organisms that can move?",
+                      "multipleChoice": [ "Monera", "Protista", "Fungi", "Animalia" ],
+                      "answer": "Animalia"
+                    },
+                    {
+                      "question": "What is the scientific name for organisms that feed on dead or decaying matter?",
+                      "multipleChoice": [ "Monera", "Protista", "Fungi", "Animalia" ],
+                      "answer": "Fungi"
+                    },
+                    {
+                      "question": "What is the scientific name for organisms that lack a nucleus?",
+                      "multipleChoice": [ "Monera", "Protista", "Fungi", "Animalia" ],
+                      "answer": "Monera"
+                    },
+                    {
+                      "question": "What is the scientific name for organisms that are capable of photosynthesis?",
+                      "multipleChoice": [ "Monera", "Protista", "Fungi", "Plantae" ],
+                      "answer": "Plantae"
+                    },
+                    {
+                      "question": "What is the scientific name for organisms that are made up of eukaryotic cells?",
+                      "multipleChoice": [ "Monera", "Protista", "Fungi", "Animalia" ],
+                      "answer": "Protista"
+                    },
+                    {
+                      "question": "What is the most common way organisms are grouped?",
+                      "multipleChoice": [
+                        "By type of habitat",
+                        "By behavior",
+                        "By evolutionary history",
+                        "By physical appearance"
+                      ],
+                      "answer": "By physical appearance"
+                    },
+                    {
+                      "question": "What is the process of classifying organisms based on their physical characteristics and evolutionary relationships called?",       
+                      "multipleChoice": [
+                        "Systematics",
+                        "Taxonomy",
+                        "Phylogenetics",
+                        "Evolutionary biology"
+                      ],
+                      "answer": "Taxonomy"
+                    },
+                    {
+                      "question": "What is the study of the evolution and relationships of different organisms called?",
+                      "multipleChoice": [
+                        "Systematics",
+                        "Taxonomy",
+                        "Phylogenetics",
+                        "Evolutionary biology"
+                      ],
+                      "answer": "Phylogenetics"
+                    },
+                    {
+                      "question": "What is the seven-level system used to classify organisms called?",
+                      "multipleChoice": [
+                        "Domain system",
+                        "Linnaean system",
+                        "Phylogenetic system",
+                        "Classification system"
+                      ],
+                      "answer": "Linnaean system"
+                    },
+                    {
+                      "question": "What taxonomic rank is used to group species that are closely related?",
+                      "multipleChoice": [ "Genus", "Family", "Order", "Class" ],
+                      "answer": "Genus"
+                    },
+                    {
+                      "question": "What taxonomic rank is used to group genera into larger categories?",
+                      "multipleChoice": [ "Genus", "Family", "Order", "Class" ],
+                      "answer": "Family"
+                    },
+                    {
+                      "question": "What taxonomic rank is used to group families into larger categories?",
+                      "multipleChoice": [ "Genus", "Order", "Class", "Phylum" ],
+                      "answer": "Order"
+                    },
+                    {
+                      "question": "What taxonomic rank is used to group orders into larger categories?",
+                      "multipleChoice": [ "Genus", "Family", "Class", "Phylum" ],
+                      "answer": "Class"
+                    },
+                    {
+                      "question": "What taxonomic rank is used to group classes into larger categories?",
+                      "multipleChoice": [ "Genus", "Family", "Order", "Phylum" ],
+                      "answer": "Phylum"
+                    },
+                    {
+                      "question": "What taxonomic rank is used to group phyla into larger categories?",
+                      "multipleChoice": [ "Genus", "Family", "Order", "Kingdom" ],
+                      "answer": "Kingdom"
+                    },
+                    {
+                      "question": "What taxonomic rank is used to group kingdoms into larger categories?",
+                      "multipleChoice": [ "Genus", "Family", "Order", "Domain" ],
+                      "answer": "Domain"
+                    },
+                    {
+                      "question": "What is the process of grouping organisms based on their evolutionary history called?",
+                      "multipleChoice": [
+                        "Systematics",
+                        "Taxonomy",
+                        "Phylogenetics",
+                        "Evolutionary biology"
+                      ],
+                      "answer": "Systematics"
+                    },
+                    {
+                      "question": "What is the process of studying the evolutionary relationships between species called?",
+                      "multipleChoice": [
+                        "Systematics",
+                        "Taxonomy",
+                        "Phylogenetics",
+                        "Evolutionary biology"
+                      ],
+                      "answer": "Phylogenetics"
+                    },
+                    {
+                      "question": "What is the study of the genetic relationships between different species called?",
+                      "multipleChoice": [
+                        "Systematics",
+                        "Taxonomy",
+                        "Phylogenetics",
+                        "Evolutionary genetics"
+                      ],
+                      "answer": "Evolutionary genetics"
+                    },
+                    {
+                      "question": "What is the branch of biology that studies the relationships between organisms and their environment?",
+                      "multipleChoice": [ "Ecology", "Taxonomy", "Genetics", "Physiology" ],
+                      "answer": "Ecology"
+                    },
+                    {
+                      "question": "What is the study of the structure, function, growth, origin, evolution, and distribution of living organisms?",
+                      "multipleChoice": [ "Ecology", "Taxonomy", "Genetics", "Physiology" ],
+                      "answer": "Physiology"
+                    },
+                    {
+                      "question": "What is the study of heredity and the variation of inherited characteristics?",
+                      "multipleChoice": [ "Ecology", "Taxonomy", "Genetics", "Physiology" ],
+                      "answer": "Genetics"
+                    },
+                    {
+                      "question": "What is the branch of biology that studies the physical, chemical, and biochemical processes of living organisms?",
+                      "multipleChoice": [ "Ecology", "Taxonomy", "Genetics", "Physiology" ],
+                      "answer": "Physiology"
+                    },
+                    {
+                      "question": "What is the process of classifying organisms based on their genetic similarity?",
+                      "multipleChoice": [ "Systematics", "Taxonomy", "Phylogenetics", "Molecular biology" ],
+                      "answer": "Phylogenetics"
+                    },
+                    {
+                      "question": "What is the process of using genetic data to study the evolutionary history of organisms?",
+                      "multipleChoice": [ "Systematics", "Taxonomy", "Phylogenetics", "Molecular biology" ],
+                      "answer": "Molecular biology"
+                    },
+                    {
+                      "question": "What is the study of the structure and function of genes at the molecular level called?",
+                      "multipleChoice": [ "Systematics", "Taxonomy", "Phylogenetics", "Molecular biology" ],
+                      "answer": "Molecular biology"
+                    },
+                    {
+                      "question": "What is the process of using molecular data to study the evolutionary relationships between species called?",
+                      "multipleChoice": [ "Systematics", "Taxonomy", "Phylogenetics", "Molecular biology" ],
+                      "answer": "Phylogenetics"
+                    },
+                    {
+                      "question": "What is the process of using molecular data to construct evolutionary trees called?",
+                      "multipleChoice": [ "Systematics", "Taxonomy", "Phylogenetics", "Molecular biology" ],
+                      "answer": "Phylogenetics"
+                    }
+                  ]
+            },
+          {
+            "name": "Characteristics of Living Things",
+            "questions": [
+                {
+                  "question": "What characteristic distinguishes living organisms from non-living matter?",
+                  "multipleChoice": [
+                    "Ability to move",
+                    "Ability to reproduce",
+                    "Ability to respond to stimuli",
+                    "Ability to produce energy"
+                  ],
+                  "answer": "Ability to reproduce"
+                },
+                {
+                  "question": "What is the basic unit of life?",
+                  "multipleChoice": [ "Cell", "Atom", "Tissue", "Molecule" ],
+                  "answer": "Cell"
+                },
+                {
+                  "question": "What is the process by which organisms produce offspring?",
+                  "multipleChoice": [ "Mitosis", "Metamorphosis", "Metabolism", "Reproduction" ],
+                  "answer": "Reproduction"
+                },
+                {
+                  "question": "What is the process by which an organism adapts to its environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Adaptation" ],
+                  "answer": "Adaptation"
+                },
+                {
+                  "question": "What is the process by which organisms exchange genetic information?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Reproduction" ],
+                  "answer": "Reproduction"
+                },
+                {
+                  "question": "What is the process by which a species changes over time?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Reproduction" ],
+                  "answer": "Evolution"
+                },
+                {
+                  "question": "What is the process by which organisms interact with their environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Reproduction" ],
+                  "answer": "Ecology"
+                },
+                {
+                  "question": "What is the process by which organisms obtain energy and nutrients from their environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Metabolism" ],
+                  "answer": "Metabolism"
+                },
+                {
+                  "question": "What is the process by which an organism changes form over its lifetime?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Metamorphosis" ],
+                  "answer": "Metamorphosis"
+                },
+                {
+                  "question": "What type of organism can produce its own food?",
+                  "multipleChoice": [ "Autotroph", "Heterotroph", "Consumer", "Producer" ],
+                  "answer": "Autotroph"
+                },
+                {
+                  "question": "What type of organism relies on other organisms for food?",
+                  "multipleChoice": [ "Autotroph", "Heterotroph", "Consumer", "Producer" ],
+                  "answer": "Heterotroph"
+                },
+                {
+                  "question": "What is the process by which organisms compete for resources?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Competition" ],
+                  "answer": "Competition"
+                },
+                {
+                  "question": "What is the process by which organisms specialize to survive in a given environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Adaptation" ],
+                  "answer": "Natural selection"
+                },
+                {
+                  "question": "What is the process by which organisms interact and exchange energy?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Symbiosis" ],
+                  "answer": "Ecology"
+                },
+                {
+                  "question": "What is the process by which organisms live in close association?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Symbiosis" ],
+                  "answer": "Symbiosis"
+                },
+                {
+                  "question": "What is the process by which organisms evolve to become better adapted to their environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Adaptation" ],
+                  "answer": "Natural selection"
+                },
+                {
+                  "question": "What is the process by which living things acquire energy and materials from the environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Nutrition" ],
+                  "answer": "Nutrition"
+                },
+                {
+                  "question": "What type of organism consumes other organisms for energy and materials?",
+                  "multipleChoice": [ "Autotroph", "Heterotroph", "Consumer", "Producer" ],
+                  "answer": "Consumer"
+                },
+                {
+                  "question": "What type of organism produces its own food?",
+                  "multipleChoice": [ "Autotroph", "Heterotroph", "Consumer", "Producer" ],
+                  "answer": "Producer"
+                },
+                {
+                  "question": "What is the process by which organisms transfer energy from one organism to another?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Food Web" ],
+                  "answer": "Food Web"
+                },
+                {
+                  "question": "What is the process by which a group of organisms of the same species interact?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Population" ],
+                  "answer": "Population"
+                },
+                {
+                  "question": "What is the process by which organisms adjust to changes in their environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Adaptation" ],
+                  "answer": "Adaptation"
+                },
+                {
+                  "question": "What is the process by which organisms increase the number of their own kind?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Reproduction" ],
+                  "answer": "Reproduction"
+                },
+                {
+                  "question": "What is the process by which organisms divide to produce genetically identical offspring?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Mitosis" ],
+                  "answer": "Mitosis"
+                },
+                {
+                  "question": "What is the process by which organisms compete for the same resources?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Competition" ],
+                  "answer": "Competition"
+                },
+                {
+                  "question": "What is the process by which organisms interact with their non-living environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Habitat" ],
+                  "answer": "Ecology"
+                },
+                {
+                  "question": "What is the process by which two different species interact and depend on each other?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Symbiosis" ],
+                  "answer": "Symbiosis"
+                },
+                {
+                  "question": "What is the process by which organisms are adapted to their environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Adaptation" ],
+                  "answer": "Natural selection"
+                },
+                {
+                  "question": "What is the process by which organisms exchange energy and materials?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Metabolism" ],
+                  "answer": "Metabolism"
+                },
+                {
+                  "question": "What is the process by which organisms change form over their lifetime?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Metamorphosis" ],
+                  "answer": "Metamorphosis"
+                },
+                {
+                  "question": "What is the process by which organisms exchange genetic information?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Reproduction" ],
+                  "answer": "Reproduction"
+                },
+                {
+                  "question": "What is the process by which a species changes over time?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Adaptation" ],
+                  "answer": "Evolution"
+                },
+                {
+                  "question": "What is the basic unit of life?",
+                  "multipleChoice": [ "Cell", "Atom", "Tissue", "Molecule" ],
+                  "answer": "Cell"
+                },
+                {
+                  "question": "What is the process by which organisms specialize to survive in a given environment?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Adaptation" ],
+                  "answer": "Natural selection"
+                },
+                {
+                  "question": "What is the process by which organisms interact and exchange energy?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Symbiosis" ],
+                  "answer": "Ecology"
+                },
+                {
+                  "question": "What is the process by which organisms live in close association?",
+                  "multipleChoice": [ "Natural selection", "Evolution", "Ecology", "Symbiosis" ],
+                  "answer": "Symbiosis"
+                }
+              ]
+        }
+    ]
+}
+]

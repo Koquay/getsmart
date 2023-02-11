@@ -1,0 +1,215 @@
+
+1. What is the primary factor that influences space weather?
+A. Solar radiation
+B. Earth's magnetic field
+C. Solar wind
+D. Atmospheric pressure
+Answer: C. Solar wind
+
+2. What is the main source of energy for space weather?
+A. Sunspots
+B. Coronal Mass Ejections
+C. Solar flares
+D. Magnetic fields
+Answer: B. Coronal Mass Ejections
+
+3. How often do Coronal Mass Ejections occur?
+A. Daily
+B. Weekly
+C. Monthly
+D. Yearly
+Answer: C. Monthly
+
+4. How does a Coronal Mass Ejection affect Earth's magnetic field?
+A. It creates a southward current
+B. It creates an eastward current
+C. It creates a northward current
+D. It creates a westward current
+Answer: A. It creates a southward current
+
+5. How long does it typically take for a Coronal Mass Ejection to reach Earth?
+A. 5 minutes
+B. 1 hour
+C. 1 day
+D. 5 days
+Answer: C. 1 day
+
+6. What type of solar activity creates the most intense space weather?
+A. Solar flares
+B. Sunspot activity
+C. Coronal Mass Ejections
+D. Magnetic fields
+Answer: C. Coronal Mass Ejections
+
+7. What is the main danger posed by space weather?
+A. Radiation
+B. Damage to satellites
+C. Power outages
+D. Severe storms
+Answer: B. Damage to satellites
+
+8. What type of radiation is emitted during space weather events?
+A. Gamma radiation
+B. X-ray radiation
+C. Ultraviolet radiation
+D. Infrared radiation
+Answer: B. X-ray radiation
+
+9. What type of equipment is most vulnerable to damage from space weather?
+A. Telescopes
+B. Weather satellites
+C. Solar panels
+D. Radios
+Answer: B. Weather satellites
+
+10. How can space weather cause power outages?
+A. By damaging power lines
+B. By increasing demand for electricity
+C. By interfering with power generation
+D. By overloading the power grid
+Answer: C. By interfering with power generation
+
+please continue with specified questions and answers
+
+
+11. What type of particles can reach Earth during space weather events?
+A. Electrons
+B. Neutrons
+C. Protons
+D. Positrons
+Answer: C. Protons
+
+12. What type of instrument is used to measure space weather?
+A. Magnetometers
+B. Barometers
+C. Seismometers
+D. Thermometers
+Answer: A. Magnetometers
+
+13. What type of particles can cause damage to astronauts in space?
+A. Gamma rays
+B. X-rays
+C. Neutrinos
+D. Cosmic rays
+Answer: D. Cosmic rays
+
+14. How can astronauts protect themselves from space weather?
+A. Wear special radiation suits
+B. Stay inside a spacecraft
+C. Take anti-radiation medication
+D. Avoid sun exposure
+Answer: A. Wear special radiation suits
+
+15. What type of storms can be created by space weather?
+A. Lightning storms
+B. Thunderstorms
+C. Radio storms
+D. Geomagnetic storms
+Answer: D. Geomagnetic storms
+
+16. What type of particle can cause interference with communication signals?
+A. Gamma rays
+B. X-rays
+C. Neutrinos
+D. Solar protons
+Answer: D. Solar protons
+
+17. How can space weather affect air travel?
+A. By causing turbulence
+B. By decreasing visibility
+C. By interfering with navigation systems
+D. By reducing oxygen levels
+Answer: C. By interfering with navigation systems
+
+18. What type of event can cause auroras?
+A. Magnetic storms
+B. Solar storms
+C. Radio storms
+D. Gamma ray bursts
+Answer: A. Magnetic storms
+
+19. How can space weather affect navigation systems?
+A. By interfering with GPS signals
+B. By causing navigation errors
+C. By reducing the accuracy of navigation
+D. By increasing the speed of navigation
+Answer: A. By interfering with GPS signals
+
+20. What type of radiation is most harmful to astronauts?
+A. Gamma rays
+B. X-rays
+C. Neutrinos
+D. Cosmic rays
+Answer: D. Cosmic rays
+
+please continue with specified questions and answers
+
+21. How can space weather affect satellites?
+A. By interfering with communication signals
+B. By reducing power output
+C. By causing navigation errors
+D. By increasing the risk of collision
+Answer: A. By interfering with communication signals
+
+22. What type of instrument can be used to measure solar wind?
+A. Magnetometers
+B. Radars
+C. Telescopes
+D. Spectrometers
+Answer: D. Spectrometers
+
+23. What type of event can cause an increase in solar wind?
+A. Solar flares
+B. Sunspot activity
+C. Coronal Mass Ejections
+D. Magnetic fields
+Answer: C. Coronal Mass Ejections
+
+24. What is the most common type of radiation during space weather?
+A. Gamma rays
+B. X-rays
+C. Ultraviolet radiation
+D. Infrared radiation
+Answer: B. X-rays
+
+25. How can space weather affect radio communications?
+A. By causing static
+B. By causing interference
+C. By reducing signal strength
+D. By increasing signal strength
+Answer: B. By causing interference
+
+26. What type of instrument can be used to measure solar flares?
+A. Magnetometers
+B. Radars
+C. Telescopes
+D. Spectrometers
+Answer: C. Telescopes
+
+27. What type of event can cause an increase in solar activity?
+A. Solar flares
+B. Sunspot activity
+C. Coronal Mass Ejections
+D. Magnetic fields
+Answer: B. Sunspot activity
+
+28. What type of radiation is most often associated with space weather?
+A. Gamma rays
+B. X-rays
+C. Ultraviolet radiation
+D. Infrared radiation
+Answer: B. X-rays
+
+29. What type of storm can be created by a Coronal Mass Ejection?
+A. Lightning storm
+B. Thunderstorm
+C. Radio storm
+D. Geomagnetic storm
+Answer: D. Geomagnetic storm
+
+30. What type of particle can cause damage to electronic equipment?
+A. Gamma rays
+B. X-rays
+C. Neutrinos
+D. Solar protons
+Answer: D. Solar protons

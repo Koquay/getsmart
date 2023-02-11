@@ -1,0 +1,1097 @@
+[
+    {    
+        "subjectId": "63e2739b3dad93238da85918",
+        "name":"Force, Motion and Energy",  
+        "subtopics": [
+          {
+            "name": "Work and Machines",
+            "questions": [
+              {
+                "question": "What force causes objects to move in a straight line unless acted upon by another force?",
+                "multipleChoice": [ "Friction", "Inertia", "Centripetal force", "Gravity" ],
+                "answer": "Inertia"
+              },
+              {
+                "question": "Which of the following is an example of a machine?",
+                "multipleChoice": [ "Hammer", "Pencil", "Pulley", "Paperclip" ],
+                "answer": "Pulley"
+              },
+              {
+                "question": "What type of energy is stored potential energy?",
+                "multipleChoice": [ "Kinetic", "Thermal", "Electrical", "Chemical" ],
+                "answer": "Chemical"
+              },
+              {
+                "question": "What type of force causes two objects to move in opposite directions?",
+                "multipleChoice": [
+                  "Friction",
+                  "Centripetal force",
+                  "Inertia",
+                  "Action-reaction force"
+                ],
+                "answer": "Action-reaction force"
+              },
+              {
+                "question": "What is the formula for power?",
+                "multipleChoice": [
+                  "Energy/force",
+                  "Force x distance",
+                  "Work/time",
+                  "Mass x acceleration"
+                ],
+                "answer": "Work/time"
+              },
+              {
+                "question": "What type of energy is created by a moving object?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Electrical" ],
+                "answer": "Kinetic"
+              },
+              {
+                "question": "What type of energy is created by a chemical reaction?",
+                "multipleChoice": [ "Thermal", "Kinetic", "Electrical", "Chemical" ],
+                "answer": "Thermal"
+              },
+              {
+                "question": "What type of force causes an object to move in a circle?",
+                "multipleChoice": [
+                  "Gravity",
+                  "Centripetal force",
+                  "Inertia",
+                  "Action-reaction force"
+                ],
+                "answer": "Centripetal force"
+              },
+              {
+                "question": "What type of machine is used to move an object with less effort?",
+                "multipleChoice": [ "Lever", "Gear", "Wheel", "Pulley" ],
+                "answer": "Pulley"
+              },
+              {
+                "question": "What type of force causes two objects to move in the same direction?",
+                "multipleChoice": [
+                  "Friction",
+                  "Centripetal force",
+                  "Inertia",
+                  "Action-reaction force"
+                ],
+                "answer": "Friction"
+              },
+              {
+                "question": "What is the formula for work?",
+                "multipleChoice": [
+                  "Energy/force",
+                  "Force x distance",
+                  "Work/time",
+                  "Mass x acceleration"
+                ],
+                "answer": "Force x distance"
+              },
+              {
+                "question": "What type of energy is created from the sun?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Electrical" ],
+                "answer": "Electrical"
+              },
+              {
+                "question": "What type of force is created by the attraction of two objects?",
+                "multipleChoice": [ "Friction", "Centripetal force", "Inertia", "Gravity" ],
+                "answer": "Gravity"
+              },
+              {
+                "question": "What type of machine is used to increase the speed of an object?",
+                "multipleChoice": [ "Lever", "Gear", "Wheel", "Pulley" ],
+                "answer": "Gear"
+              },
+              {
+                "question": "What type of energy is created by a generator?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Electrical" ],
+                "answer": "Electrical"
+              },
+              {
+                "question": "What type of force is created when two objects rub against each other?",
+                "multipleChoice": [ "Friction", "Centripetal force", "Inertia", "Gravity" ],
+                "answer": "Friction"
+              },
+              {
+                "question": "What type of machine is used to lift an object with less effort?",
+                "multipleChoice": [ "Lever", "Gear", "Wheel", "Pulley" ],
+                "answer": "Lever"
+              },
+              {
+                "question": "What type of energy is stored in a rubber band?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Electrical" ],
+                "answer": "Chemical"
+              },
+              {
+                "question": "What type of force is created by the Earth's attraction to the moon?",
+                "multipleChoice": [ "Friction", "Centripetal force", "Inertia", "Gravity" ],
+                "answer": "Gravity"
+              },
+              {
+                "question": "What type of machine is used to change the direction of a force?",
+                "multipleChoice": [ "Lever", "Gear", "Wheel", "Pulley" ],
+                "answer": "Lever"
+              },
+              {
+                "question": "What type of energy is created by a friction force?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Electrical" ],
+                "answer": "Thermal"
+              },
+              {
+                "question": "What type of force is created by a magnet?",
+                "multipleChoice": [ "Friction", "Centripetal force", "Inertia", "Magnetism" ],
+                "answer": "Magnetism"
+              },
+              {
+                "question": "What type of machine is used to transfer energy from one place to another?",
+                "multipleChoice": [ "Lever", "Gear", "Wheel", "Pulley" ],
+                "answer": "Pulley"
+              },
+              {
+                "question": "What type of energy is created by burning a fuel?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Electrical" ],
+                "answer": "Thermal"
+              },
+              {
+                "question": "What type of force is created by a spinning object?",
+                "multipleChoice": [ "Friction", "Centripetal force", "Inertia", "Gravity" ],
+                "answer": "Centripetal force"
+              },
+              {
+                "question": "What type of machine is used to increase the torque of a force?",
+                "multipleChoice": [ "Lever", "Gear", "Wheel", "Pulley" ],
+                "answer": "Gear"
+              },
+              {
+                "question": "What type of energy is released when an object falls?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Electrical" ],
+                "answer": "Kinetic"
+              },
+              {
+                "question": "What type of force is created when two objects collide?",
+                "multipleChoice": [
+                  "Friction",
+                  "Centripetal force",
+                  "Inertia",
+                  "Action-reaction force"
+                ],
+                "answer": "Action-reaction force"
+              },
+              {
+                "question": "What type of machine is used to reduce the amount of force needed to move an object?",
+                "multipleChoice": [ "Lever", "Gear", "Wheel", "Pulley" ],
+                "answer": "Lever"
+              },
+              {
+                "question": "What type of energy is created when an atom splits?",
+                "multipleChoice": [ "Chemical", "Thermal", "Kinetic", "Nuclear" ],
+                "answer": "Nuclear"
+              }
+            ]
+          },
+          {
+            "name": "Types of Energy",
+            "questions": [
+              {
+                "question": "What is the name for energy associated with the motion of objects?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Potential energy"
+                ],
+                "answer": "Chemical energy"
+              },
+              {
+                "question": "What is the name for energy stored in objects due to their position or configuration?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Potential energy"
+                ],
+                "answer": "Potential energy"
+              },
+              {
+                "question": "What is the name for energy released from the breakdown of chemical bonds?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Potential energy"
+                ],
+                "answer": "Chemical energy"
+              },
+              {
+                "question": "What is the name for energy stored in electric fields?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Potential energy"
+                ],
+                "answer": "Electrical energy"
+              },
+              {
+                "question": "What is the name for energy stored in the nucleus of an atom?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Nuclear energy"
+                ],
+                "answer": "Nuclear energy"
+              },
+              {
+                "question": "What is the name for energy released from the decay of radioactive materials?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Nuclear energy"
+                ],
+                "answer": "Nuclear energy"
+              },
+              {
+                "question": "What is the name for energy released during a reaction between two substances?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Thermal energy"
+                ],
+                "answer": "Chemical energy"
+              },
+              {
+                "question": "What is the name for energy released from the movement of particles?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Thermal energy"
+                ],
+                "answer": "Thermal energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of light?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Radiant energy",
+                  "Solar energy"
+                ],
+                "answer": "Light energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of sound?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Radiant energy",
+                  "Sound energy"
+                ],
+                "answer": "Sound energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of heat?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Radiant energy",
+                  "Thermal energy"
+                ],
+                "answer": "Thermal energy"
+              },
+              {
+                "question": "What is the name for energy released from the movement of objects?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Radiant energy",
+                  "Thermal energy"
+                ],
+                "answer": "Mechanical energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of nuclear energy?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Nuclear energy",
+                  "Radiant energy"
+                ],
+                "answer": "Nuclear energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of solar energy?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Radiant energy",
+                  "Solar energy"
+                ],
+                "answer": "Solar energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of heat to light?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Radiant energy",
+                  "Thermal energy"
+                ],
+                "answer": "Light energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of motion?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Mechanical energy",
+                  "Radiant energy",
+                  "Thermal energy"
+                ],
+                "answer": "Mechanical energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of light to heat?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Radiant energy",
+                  "Thermal energy",
+                  "Thermal radiation"
+                ],
+                "answer": "Thermal radiation"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of gravitational potential energy?",
+                "multipleChoice": [
+                  "Gravitational energy",
+                  "Kinetic energy",
+                  "Potential energy",
+                  "Radiant energy"
+                ],
+                "answer": "Kinetic energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of chemical potential energy?",
+                "multipleChoice": [
+                  "Chemical energy",
+                  "Kinetic energy",
+                  "Potential energy",
+                  "Radiant energy"
+                ],
+                "answer": "Kinetic energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of electrical potential energy?",
+                "multipleChoice": [
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Potential energy",
+                  "Radiant energy"
+                ],
+                "answer": "Kinetic energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of heat to work?",
+                "multipleChoice": [
+                  "Heat energy",
+                  "Mechanical energy",
+                  "Thermal energy",
+                  "Work energy"
+                ],
+                "answer": "Mechanical energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of energy to electricity?",
+                "multipleChoice": [
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Potential energy",
+                  "Thermal energy"
+                ],
+                "answer": "Electrical energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of mechanical energy to electrical energy?",
+                "multipleChoice": [
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Mechanical energy",
+                  "Thermal energy"
+                ],
+                "answer": "Mechanical energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of stored energy to mechanical energy?",
+                "multipleChoice": [
+                  "Kinetic energy",
+                  "Mechanical energy",
+                  "Potential energy",
+                  "Thermal energy"
+                ],
+                "answer": "Mechanical energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of energy to heat?",
+                "multipleChoice": [
+                  "Heat energy",
+                  "Kinetic energy",
+                  "Thermal energy",
+                  "Thermal radiation"
+                ],
+                "answer": "Thermal energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of energy to sound?",
+                "multipleChoice": [
+                  "Kinetic energy",
+                  "Mechanical energy",
+                  "Sound energy",
+                  "Thermal energy"
+                ],
+                "answer": "Sound energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of energy to light?",
+                "multipleChoice": [
+                  "Light energy",
+                  "Radiant energy",
+                  "Thermal energy",
+                  "Thermal radiation"
+                ],
+                "answer": "Light energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of solar energy to electrical energy?",
+                "multipleChoice": [
+                  "Electrical energy",
+                  "Kinetic energy",
+                  "Solar energy",
+                  "Thermal energy"
+                ],
+                "answer": "Solar energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of solar energy to heat?",
+                "multipleChoice": [
+                  "Heat energy",
+                  "Radiant energy",
+                  "Solar energy",
+                  "Thermal energy"
+                ],
+                "answer": "Thermal energy"
+              },
+              {
+                "question": "What is the name for energy released from the conversion of nuclear energy to heat?",
+                "multipleChoice": [
+                  "Nuclear energy",
+                  "Radiant energy",
+                  "Thermal energy",
+                  "Thermal radiation"
+                ],
+                "answer": "Thermal energy"
+              }
+            ]
+          },
+          
+            {
+                "name": "Conservation of Energy",
+                "questions": [
+                    {
+                      "question": "Which of the following is an example of conservation of energy?",
+                      "multipleChoice": [
+                        "A person lifting a heavy box",
+                        "Heat radiating from a fire",
+                        "Water evaporating from a lake",
+                        "A car accelerating"
+                      ],
+                      "answer": "A person lifting a heavy box"
+                    },
+                    {
+                      "question": "Which of the following defines energy conservation?",
+                      "multipleChoice": [
+                        "The transfer of energy from one form to another",
+                        "The process of reducing energy consumption",
+                        "The ability to store energy",
+                        "The law that energy can never be destroyed"
+                      ],
+                      "answer": "The law that energy can never be destroyed"
+                    },
+                    {
+                      "question": "What is the equation for the conservation of energy?",
+                      "multipleChoice": [ "E = m x g", "F = m x a", "E = m x c", "E = m x v2" ],
+                      "answer": "E = m x v2"
+                    },
+                    {
+                      "question": "Which of the following is NOT a form of energy?",
+                      "multipleChoice": [ "Kinetic", "Electrical", "Sound", "Temperature" ],
+                      "answer": "Temperature"
+                    },
+                    {
+                      "question": "How is energy conserved when a ball is thrown up into the air?",
+                      "multipleChoice": [
+                        "Potential energy is converted to kinetic energy",
+                        "Kinetic energy is converted to sound energy",
+                        "Potential energy is converted to electrical energy",
+                        "Kinetic energy is converted to potential energy"
+                      ],
+                      "answer": "Kinetic energy is converted to potential energy"
+                    },
+                    {
+                      "question": "What is the term for energy that is stored in an object due to its position or configuration?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "What type of energy is stored in a compressed spring?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a dam is opened?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a boulder rolls down a hill?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a bomb explodes?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is released when water is heated?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Thermal energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a musical instrument is played?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Sound energy"
+                    },
+                    {
+                      "question": "What type of energy is stored in a battery?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "What type of energy is generated by a generator?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a roller coaster is in motion?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What is the equation for the conservation of momentum?",
+                      "multipleChoice": [ "E = m x g", "F = m x a", "E = m x c", "P = m x v" ],
+                      "answer": "P = m x v"
+                    },
+                    {
+                      "question": "What type of energy is stored in a capacitor?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "When a lightbulb is turned on, what form of energy is converted to light energy?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a firework explodes?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a car brakes?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is stored in an elastic band?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a thunderstorm occurs?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is generated by a wind turbine?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is stored in a nuclear reactor?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "What type of energy is released when two magnets are pushed together?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a car accelerates?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a wave crashes on the shore?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Kinetic energy"
+                    },
+                    {
+                      "question": "When a water droplet falls, what form of energy is converted to kinetic energy?",
+                      "multipleChoice": [
+                        "Chemical energy",
+                        "Electrical energy",
+                        "Mechanical energy",
+                        "Nuclear energy"
+                      ],
+                      "answer": "Mechanical energy"
+                    },
+                    {
+                      "question": "What type of energy is stored in a fuel cell?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    },
+                    {
+                      "question": "What type of energy is released when a roller coaster is lifted to the top of the track?",
+                      "multipleChoice": [
+                        "Kinetic energy",
+                        "Potential energy",
+                        "Sound energy",
+                        "Thermal energy"
+                      ],
+                      "answer": "Potential energy"
+                    }
+                  ]
+              },
+              {
+                "name": "Newtons Laws of Motion",
+                "questions": [
+                    {
+                      "question": "According to Newton’s First Law of Motion, which of the following must be true for an object to move?",
+                      "multipleChoice": [
+                        "It must have a force acting upon it",
+                        "It must have an acceleration",
+                        "It must be in a state of rest",
+                        "It must be acted upon by a gravitational field"
+                      ],
+                      "answer": "It must have a force acting upon it"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, which of the following is true about an object’s acceleration?",
+                      "multipleChoice": [
+                        "It is directly proportional to the force acting on it",
+                        "It is inversely proportional to the mass of the object",
+                        "It is inversely proportional to the force acting on it",
+                        "It is directly proportional to the mass of the object"
+                      ],
+                      "answer": "It is directly proportional to the force acting on it"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, which of the following is true?",
+                      "multipleChoice": [
+                        "For every action, there is an equal and opposite reaction",
+                        "Objects at rest remain at rest",
+                        "The force of gravity is proportional to the mass of the object",
+                        "Objects in motion remain in motion"
+                      ],
+                      "answer": "For every action, there is an equal and opposite reaction"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, if a force is applied to an object, then what will happen?",
+                      "multipleChoice": [
+                        "The object will move in the same direction as the force",
+                        "The object will remain at rest",
+                        "The object will accelerate in the direction of the force",
+                        "The object will move in the opposite direction of the force"
+                      ],
+                      "answer": "The object will accelerate in the direction of the force"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the rate of acceleration of an object depend on its mass?",
+                      "multipleChoice": [
+                        "It is directly proportional to the mass of the object",
+                        "It is inversely proportional to the mass of the object",
+                        "It is unaffected by the mass of the object",
+                        "It is directly proportional to the force applied to the object"
+                      ],
+                      "answer": "It is inversely proportional to the mass of the object"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what is the relationship between the forces acting on two objects?",
+                      "multipleChoice": [
+                        "One force is equal and opposite to the other",
+                        "The forces are equal and in the same direction",
+                        "The forces are equal and in opposite directions",
+                        "The forces are inversely proportional to each other"
+                      ],
+                      "answer": "One force is equal and opposite to the other"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, what must be true for an object to remain in motion?",
+                      "multipleChoice": [
+                        "It must be acted upon by a gravitational field",
+                        "It must have a force acting upon it",
+                        "It must have an acceleration",
+                        "It must be in a state of rest"
+                      ],
+                      "answer": "It must have a force acting upon it"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the net force on an object affect its acceleration?",
+                      "multipleChoice": [
+                        "It is directly proportional to the net force",
+                        "It is inversely proportional to the net force",
+                        "It is unaffected by the net force",
+                        "It is directly proportional to the mass of the object"
+                      ],
+                      "answer": "It is directly proportional to the net force"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what happens if two objects exert forces on each other?",
+                      "multipleChoice": [
+                        "The forces cancel each other out",
+                        "The forces are equal and opposite",
+                        "The forces are inversely proportional to each other",
+                        "The forces are equal and in the same direction"
+                      ],
+                      "answer": "The forces are equal and opposite"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, what happens if a force is applied to an object at rest?",
+                      "multipleChoice": [
+                        "The object will remain at rest",
+                        "The object will move in the opposite direction of the force",
+                        "The object will accelerate in the direction of the force",
+                        "The object will move in the same direction as the force"
+                      ],
+                      "answer": "The object will accelerate in the direction of the force"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, what happens when a greater force is applied to an object?",
+                      "multipleChoice": [
+                        "The object will experience a greater acceleration",
+                        "The object will experience a smaller acceleration",
+                        "The object will remain at rest",
+                        "The object will experience no acceleration"
+                      ],
+                      "answer": "The object will experience a greater acceleration"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what is the relationship between the forces on two objects?",
+                      "multipleChoice": [
+                        "The forces are equal and in the same direction",
+                        "The forces are inversely proportional to each other",
+                        "The forces are equal and opposite",
+                        "One force is equal and opposite to the other"
+                      ],
+                      "answer": "One force is equal and opposite to the other"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, an object at rest will remain at rest unless _______?",
+                      "multipleChoice": [
+                        "It is acted upon by a gravitational field",
+                        "It is acted upon by a force",
+                        "It has an acceleration",
+                        "It is in a state of motion"
+                      ],
+                      "answer": "It is acted upon by a force"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the acceleration of an object depend on its mass?",
+                      "multipleChoice": [
+                        "It is directly proportional to the force applied to the object",
+                        "It is inversely proportional to the mass of the object",
+                        "It is unaffected by the mass of the object",
+                        "It is directly proportional to the mass of the object"
+                      ],
+                      "answer": "It is inversely proportional to the mass of the object"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what happens when two objects exert forces on each other?",
+                      "multipleChoice": [
+                        "The forces are equal and in opposite directions",
+                        "The forces are inversely proportional to each other",
+                        "The forces are equal and in the same direction",
+                        "One force is equal and opposite to the other"
+                      ],
+                      "answer": "One force is equal and opposite to the other"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, what must be true for an object to move?",
+                      "multipleChoice": [
+                        "It must be acted upon by a gravitational field",
+                        "It must have a force acting upon it",
+                        "It must be in a state of rest",
+                        "It must have an acceleration"
+                      ],
+                      "answer": "It must have a force acting upon it"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the rate of acceleration of an object depend on its mass?",
+                      "multipleChoice": [
+                        "It is inversely proportional to the mass of the object",
+                        "It is directly proportional to the mass of the object",
+                        "It is unaffected by the mass of the object",
+                        "It is directly proportional to the force applied to the object"
+                      ],
+                      "answer": "It is inversely proportional to the mass of the object"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what is the relationship between the forces acting on two objects?",
+                      "multipleChoice": [
+                        "The forces are equal and in the same direction",
+                        "The forces are inversely proportional to each other",
+                        "One force is equal and opposite to the other",
+                        "The forces are equal and in opposite directions"
+                      ],
+                      "answer": "One force is equal and opposite to the other"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, what happens if a force is applied to an object at rest?",
+                      "multipleChoice": [
+                        "The object will move in the same direction as the force",
+                        "The object will remain at rest",
+                        "The object will move in the opposite direction of the force",
+                        "The object will accelerate in the direction of the force"
+                      ],
+                      "answer": "The object will accelerate in the direction of the force"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the net force on an object affect its acceleration?",
+                      "multipleChoice": [
+                        "It is directly proportional to the net force",
+                        "It is inversely proportional to the net force",
+                        "It is directly proportional to the mass of the object",
+                        "It is unaffected by the net force"
+                      ],
+                      "answer": "It is directly proportional to the net force"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what happens if two objects exert forces on each other?",
+                      "multipleChoice": [
+                        "The forces are equal and in the same direction",
+                        "The forces cancel each other out",
+                        "The forces are equal and opposite",
+                        "The forces are inversely proportional to each other"
+                      ],
+                      "answer": "The forces are equal and opposite"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, what must be true for an object to remain in motion?",
+                      "multipleChoice": [
+                        "It must be in a state of rest",
+                        "It must be acted upon by a gravitational field",
+                        "It must have a force acting upon it",
+                        "It must have an acceleration"
+                      ],
+                      "answer": "It must have a force acting upon it"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the rate of acceleration of an object depend on its mass?",
+                      "multipleChoice": [
+                        "It is directly proportional to the mass of the object",
+                        "It is directly proportional to the force applied to the object",
+                        "It is unaffected by the mass of the object",
+                        "It is inversely proportional to the mass of the object"
+                      ],
+                      "answer": "It is inversely proportional to the mass of the object"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what is the relationship between the forces on two objects?",
+                      "multipleChoice": [
+                        "The forces are inversely proportional to each other",
+                        "The forces are equal and in the same direction",
+                        "The forces are equal and in opposite directions",
+                        "One force is equal and opposite to the other"
+                      ],
+                      "answer": "One force is equal and opposite to the other"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, if a force is applied to an object, then what will happen?",
+                      "multipleChoice": [
+                        "The object will remain at rest",
+                        "The object will move in the same direction as the force",
+                        "The object will move in the opposite direction of the force",
+                        "The object will accelerate in the direction of the force"
+                      ],
+                      "answer": "The object will accelerate in the direction of the force"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the net force on an object affect its acceleration?",
+                      "multipleChoice": [
+                        "It is inversely proportional to the net force",
+                        "It is unaffected by the net force",
+                        "It is directly proportional to the net force",
+                        "It is directly proportional to the mass of the object"
+                      ],
+                      "answer": "It is directly proportional to the net force"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what happens when two objects exert forces on each other?",
+                      "multipleChoice": [
+                        "The forces are equal and in opposite directions",
+                        "The forces are inversely proportional to each other",
+                        "One force is equal and opposite to the other",
+                        "The forces are equal and in the same direction"
+                      ],
+                      "answer": "One force is equal and opposite to the other"
+                    },
+                    {
+                      "question": "According to Newton’s First Law of Motion, an object at rest will remain at rest unless _______?",
+                      "multipleChoice": [
+                        "It is acted upon by a gravitational field",
+                        "It is acted upon by a force",
+                        "It is in a state of motion",
+                        "It has an acceleration"
+                      ],
+                      "answer": "It is acted upon by a force"
+                    },
+                    {
+                      "question": "According to Newton’s Second Law of Motion, how does the acceleration of an object depend on its mass?",
+                      "multipleChoice": [
+                        "It is unaffected by the mass of the object",
+                        "It is inversely proportional to the mass of the object",
+                        "It is directly proportional to the mass of the object",
+                        "It is directly proportional to the force applied to the object"
+                      ],
+                      "answer": "It is inversely proportional to the mass of the object"
+                    },
+                    {
+                      "question": "According to Newton’s Third Law of Motion, what is the relationship between the forces acting on two objects?",
+                      "multipleChoice": [
+                        "The forces are equal and in the same direction",
+                        "The forces are equal and in opposite directions",
+                        "The forces are inversely proportional to each other",
+                        "One force is equal and opposite to the other"
+                      ],
+                      "answer": "One force is equal and opposite to the other"
+                    }
+                  ]
+              }
+                          
+        ]
+    }
+]
+
+

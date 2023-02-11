@@ -1,0 +1,893 @@
+[
+    {    
+        "subjectId": "63e2739b3dad93238da85918",
+        "name":"Matter and Properties",  
+        "subtopics": [
+          {
+            "name": "Chemical Reactions",
+            "questions": [
+              {
+                "question": "What type of reaction is caused by a combination of two substances?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction is caused by a single element replacing another element in a compound?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              },
+              {
+                "question": "What type of reaction is caused by the breakdown of a compound into two or more simpler compounds?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Decomposition"
+              },
+              {
+                "question": "What type of reaction is caused by two compounds swapping elements?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Double Replacement"
+              },
+              {
+                "question": "What type of reaction is caused by the combination of two or more elements to form a compound?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when a metal is exposed to an acid?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when hydrogen and oxygen combine to form water?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when a compound breaks down into two or more simpler compounds?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Decomposition"
+              },
+              {
+                "question": "What type of reaction occurs when two elements in a compound exchange places?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Double Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when two elements combine to form a compound?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when two compounds swap an element?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Double Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when a metal reacts with oxygen to form an oxide?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when a metal reacts with a nonmetal to form a compound?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when chlorine gas reacts with sodium metal to form sodium chloride?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when methane is exposed to oxygen to form carbon dioxide and water?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when calcium oxide is heated to form calcium metal and oxygen gas?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Decomposition"
+              },
+              {
+                "question": "What type of reaction occurs when two elements swap places in a compound?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Double Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when two compounds combine to form a larger compound?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when hydrochloric acid reacts with magnesium to form magnesium chloride and hydrogen gas?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when sulfur dioxide is exposed to oxygen to form sulfur trioxide?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when two compounds exchange elements?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Double Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when sodium hydroxide reacts with hydrochloric acid to form sodium chloride and water?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Double Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when a metal reacts with a nonmetal to produce a compound and a gas?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when hydrogen gas reacts with chlorine gas to form hydrogen chloride?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when calcium carbonate is exposed to heat to form calcium oxide and carbon dioxide?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Decomposition"
+              },
+              {
+                "question": "What type of reaction occurs when copper metal reacts with nitric acid to form copper nitrate and nitrogen dioxide?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when sodium reacts with chlorine to form sodium chloride?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when sodium chloride is heated to form sodium and chlorine gas?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Decomposition"
+              },
+              {
+                "question": "What type of reaction occurs when magnesium reacts with oxygen to form magnesium oxide?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when hydrogen peroxide is exposed to heat to form water and oxygen gas?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Decomposition"
+              },
+              {
+                "question": "What type of reaction occurs when zinc metal reacts with sulfuric acid to form zinc sulfate and hydrogen gas?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when two elements in a compound exchange places?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Double Replacement"
+              },
+              {
+                "question": "What type of reaction occurs when two elements combine to form a compound?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when methane and oxygen react to form carbon dioxide and water?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction occurs when hydrochloric acid reacts with magnesium to form magnesium chloride and hydrogen gas?",
+                "multipleChoice": [
+                  "Decomposition",
+                  "Synthesis",
+                  "Single Replacement",
+                  "Double Replacement"
+                ],
+                "answer": "Single Replacement"
+              }
+            ]
+          },
+
+          {
+            "name": "Mixtures and Solutions",
+            "questions": [
+              {
+                "question": "What is the process of combining two or more substances without a chemical reaction?",
+                "multipleChoice": [ "Evaporation", "Condensation", "Dissolution", "Sublimation" ],
+                "answer": "Dissolution"
+              },
+              {
+                "question": "What type of mixture is formed when two or more different substances are mixed together evenly?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What is the process of separating mixtures into their component parts?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Filtration"
+              },
+              {
+                "question": "What is the process of separating a substance from a liquid by boiling the liquid and collecting the vapor?",
+                "multipleChoice": [ "Sublimation", "Condensation", "Distillation", "Evaporation" ],
+                "answer": "Distillation"
+              },
+              {
+                "question": "What type of mixture consists of two or more substances that are not evenly mixed?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Suspension"
+              },
+              {
+                "question": "What type of mixture is a combination of two or more metals?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Alloy"
+              },
+              {
+                "question": "What is the process of separating a substance from a liquid by cooling the liquid and collecting the solid?",
+                "multipleChoice": [
+                  "Sublimation",
+                  "Condensation",
+                  "Distillation",
+                  "Crystallization"
+                ],
+                "answer": "Crystallization"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by passing the mixture through a filter?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Filtration"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by slowly pouring the liquid off the top of the mixture?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Decantation"
+              },
+              {
+                "question": "What is the process of separating a mixture by passing it through a medium that has different properties from the components of the mixture?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Chromatography"
+              },
+              {
+                "question": "What type of mixture consists of two or more substances that are evenly mixed together?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What type of mixture consists of two or more substances that are not evenly mixed together?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Suspension"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by slowly pouring the liquid off the top of the mixture?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Decantation"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by passing the mixture through a filter?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Filtration"
+              },
+              {
+                "question": "What is the process of separating a substance from a liquid by boiling the liquid and collecting the vapor?",
+                "multipleChoice": [ "Sublimation", "Condensation", "Distillation", "Evaporation" ],
+                "answer": "Distillation"
+              },
+              {
+                "question": "What is the process of separating a substance from a liquid by cooling the liquid and collecting the solid?",
+                "multipleChoice": [
+                  "Sublimation",
+                  "Condensation",
+                  "Distillation",
+                  "Crystallization"
+                ],
+                "answer": "Crystallization"
+              },
+              {
+                "question": "What force causes objects to move in a straight line unless acted upon by another force?",
+                "multipleChoice": [ "Friction", "Inertia", "Centripetal force", "Gravity" ],
+                "answer": "Inertia"
+              },
+              {
+                "question": "What is the process of combining two or more substances without a chemical reaction?",
+                "multipleChoice": [ "Evaporation", "Condensation", "Dissolution", "Sublimation" ],
+                "answer": "Dissolution"
+              },
+              {
+                "question": "What type of mixture is formed when two or more different substances are mixed together evenly?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What is the process of separating mixtures into their component parts?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Filtration"
+              },
+              {
+                "question": "What type of mixture is a combination of two or more metals?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Alloy"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by cooling the liquid and collecting the solid?",
+                "multipleChoice": [
+                  "Sublimation",
+                  "Condensation",
+                  "Distillation",
+                  "Crystallization"
+                ],
+                "answer": "Crystallization"
+              },
+              {
+                "question": "What is the process of separating a substance from a liquid by boiling the liquid and collecting the vapor?",
+                "multipleChoice": [ "Sublimation", "Condensation", "Distillation", "Evaporation" ],
+                "answer": "Distillation"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by passing the mixture through a filter?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Filtration"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by slowly pouring the liquid off the top of the mixture?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Decantation"
+              },
+              {
+                "question": "What type of mixture consists of two or more substances that are evenly mixed together?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What type of mixture consists of two or more substances that are not evenly mixed together?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Suspension"
+              },
+              {
+                "question": "What is the process of separating a mixture by passing it through a medium that has different properties from the components of the mixture?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Chromatography"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by slowly pouring the liquid off the top of the mixture?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Decantation"
+              },
+              {
+                "question": "What type of mixture is a combination of two or more metals?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Alloy"
+              },
+              {
+                "question": "What force causes objects to move in a straight line unless acted upon by another force?",
+                "multipleChoice": [ "Friction", "Inertia", "Centripetal force", "Gravity" ],
+                "answer": "Inertia"
+              },
+              {
+                "question": "What is the process of combining two or more substances without a chemical reaction?",
+                "multipleChoice": [ "Evaporation", "Condensation", "Dissolution", "Sublimation" ],
+                "answer": "Dissolution"
+              },
+              {
+                "question": "What type of mixture is formed when two or more different substances are mixed together evenly?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What is the process of separating mixtures into their component parts?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Filtration"
+              },
+              {
+                "question": "What is the process of separating a substance from a liquid by boiling the liquid and collecting the vapor?",
+                "multipleChoice": [ "Sublimation", "Condensation", "Distillation", "Evaporation" ],
+                "answer": "Distillation"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by cooling the liquid and collecting the solid?",
+                "multipleChoice": [
+                  "Sublimation",
+                  "Condensation",
+                  "Distillation",
+                  "Crystallization"
+                ],
+                "answer": "Crystallization"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by passing the mixture through a filter?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Filtration"
+              },
+              {
+                "question": "What is the process of separating a solid from a liquid by slowly pouring the liquid off the top of the mixture?",
+                "multipleChoice": [ "Filtration", "Distillation", "Chromatography", "Decantation" ],
+                "answer": "Decantation"
+              },
+              {
+                "question": "What type of mixture consists of two or more substances that are evenly mixed together?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What type of mixture consists of two or more substances that are not evenly mixed together?",
+                "multipleChoice": [ "Compound", "Alloy", "Solution", "Suspension" ],
+                "answer": "Suspension"
+              }
+            ]
+          },
+
+          {
+            "name": "Properties of Matter",
+            "questions": [
+              {
+                "question": "What is the smallest particle of an element?",
+                "multipleChoice": [ "Atom", "Molecule", "Ion", "Proton" ],
+                "answer": "Atom"
+              },
+              {
+                "question": "What property of matter describes the attraction of particles for one another?",
+                "multipleChoice": [ "Density", "Viscosity", "Cohesion", "Adhesion" ],
+                "answer": "Cohesion"
+              },
+              {
+                "question": "What physical property describes the amount of matter in an object?",
+                "multipleChoice": [ "Volume", "Weight", "Mass", "Temperature" ],
+                "answer": "Mass"
+              },
+              {
+                "question": "What is the ratio of mass to volume?",
+                "multipleChoice": [ "Pressure", "Density", "Intensity", "Viscosity" ],
+                "answer": "Density"
+              },
+              {
+                "question": "What is the measure of an object’s resistance to change in motion?",
+                "multipleChoice": [ "Momentum", "Acceleration", "Inertia", "Force" ],
+                "answer": "Inertia"
+              },
+              {
+                "question": "What type of matter has a definite shape and a definite volume?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Solid"
+              },
+              {
+                "question": "What type of matter can flow and take the shape of its container?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Liquid"
+              },
+              {
+                "question": "What type of matter has no definite shape and no definite volume?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Gas"
+              },
+              {
+                "question": "What type of matter is composed of positively and negatively charged particles?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Plasma"
+              },
+              {
+                "question": "What type of matter has the highest compressibility?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Gas"
+              },
+              {
+                "question": "What type of matter has the lowest compressibility?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Solid"
+              },
+              {
+                "question": "What type of matter has the highest kinetic energy?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Plasma"
+              },
+              {
+                "question": "What type of matter has the highest potential energy?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Solid"
+              },
+              {
+                "question": "What type of matter can conduct electricity?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Plasma"
+              },
+              {
+                "question": "What type of matter can diffuse?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Gas"
+              },
+              {
+                "question": "What is the measure of a liquid’s resistance to flow?",
+                "multipleChoice": [ "Density", "Viscosity", "Compressibility", "Solubility" ],
+                "answer": "Viscosity"
+              },
+              {
+                "question": "What is the measure of the amount of space an object takes up?",
+                "multipleChoice": [ "Density", "Viscosity", "Volume", "Solubility" ],
+                "answer": "Volume"
+              },
+              {
+                "question": "What is the measure of the amount of matter in an object?",
+                "multipleChoice": [ "Pressure", "Volume", "Mass", "Solubility" ],
+                "answer": "Mass"
+              },
+              {
+                "question": "What is the measure of the amount of solute that can be dissolved in a solvent?",
+                "multipleChoice": [ "Pressure", "Volume", "Mass", "Solubility" ],
+                "answer": "Solubility"
+              },
+              {
+                "question": "What is the measure of the force of gravity on an object?",
+                "multipleChoice": [ "Pressure", "Volume", "Mass", "Weight" ],
+                "answer": "Weight"
+              },
+              {
+                "question": "What is the measure of the amount of air pressure in the atmosphere?",
+                "multipleChoice": [ "Pressure", "Volume", "Mass", "Weight" ],
+                "answer": "Pressure"
+              },
+              {
+                "question": "What is the measure of the change in temperature when an object melts?",
+                "multipleChoice": [
+                  "Melting Point",
+                  "Boiling Point",
+                  "Freezing Point",
+                  "Vaporization Point"
+                ],
+                "answer": "Melting Point"
+              },
+              {
+                "question": "What is the measure of the change in temperature when an object boils?",
+                "multipleChoice": [
+                  "Melting Point",
+                  "Boiling Point",
+                  "Freezing Point",
+                  "Vaporization Point"
+                ],
+                "answer": "Boiling Point"
+              },
+              {
+                "question": "What is the measure of the change in temperature when an object freezes?",
+                "multipleChoice": [
+                  "Melting Point",
+                  "Boiling Point",
+                  "Freezing Point",
+                  "Vaporization Point"
+                ],
+                "answer": "Freezing Point"
+              },
+              
+              {
+                "question": "What type of mixture can be separated by centrifugation?",
+                "multipleChoice": [ "Suspension", "Solution", "Colloid", "Emulsion" ],
+                "answer": "Colloid"
+              },
+              {
+                "question": "What type of mixture can be separated by coalescence?",
+                "multipleChoice": [ "Suspension", "Solution", "Colloid", "Emulsion" ],
+                "answer": "Emulsion"
+              },
+              {
+                "question": "What type of mixture consists of particles that are too small to be seen with a microscope?",
+                "multipleChoice": [ "Suspension", "Solution", "Colloid", "Emulsion" ],
+                "answer": "Colloid"
+              }
+            ]
+          },
+          
+          {
+            "name": "States of Matter",
+            "questions": [
+              {
+                "question": "What is the most common state of matter in the universe?",
+                "multipleChoice": [ "Solid", "Liquid", "Gas", "Plasma" ],
+                "answer": "Gas"
+              },
+              {
+                "question": "What type of mixture has different particles that are evenly distributed throughout the mixture?",
+                "multipleChoice": [ "Suspension", "Colloid", "Solution", "Compound" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What is a homogeneous mixture of two or more substances?",
+                "multipleChoice": [ "Suspension", "Colloid", "Solution", "Compound" ],
+                "answer": "Compound"
+              },
+              {
+                "question": "What type of mixture has particles that are larger than the size of a molecule and do not dissolve in the liquid?",
+                "multipleChoice": [ "Suspension", "Colloid", "Solution", "Compound" ],
+                "answer": "Suspension"
+              },
+              {
+                "question": "What type of mixture has particles that are smaller than the size of a molecule but can remain suspended in the liquid?",
+                "multipleChoice": [ "Suspension", "Colloid", "Solution", "Compound" ],
+                "answer": "Colloid"
+              },
+              {
+                "question": "What type of mixture is formed when two or more substances are combined and the molecules are evenly distributed?",
+                "multipleChoice": [ "Suspension", "Colloid", "Solution", "Compound" ],
+                "answer": "Solution"
+              },
+              {
+                "question": "What is the process of two or more substances combining to form a new substance?",
+                "multipleChoice": [ "Suspension", "Colloid", "Solution", "Chemical Reaction" ],
+                "answer": "Chemical Reaction"
+              },
+              {
+                "question": "What is the process by which a liquid evaporates from a solid or a gas condenses into a liquid?",
+                "multipleChoice": [ "Melting", "Freezing", "Sublimation", "Condensation" ],
+                "answer": "Sublimation"
+              },
+              {
+                "question": "What is the process by which a solid changes to a liquid?",
+                "multipleChoice": [ "Melting", "Freezing", "Sublimation", "Condensation" ],
+                "answer": "Melting"
+              },
+              {
+                "question": "What is the process by which a liquid changes to a solid?",
+                "multipleChoice": [ "Melting", "Freezing", "Sublimation", "Condensation" ],
+                "answer": "Freezing"
+              },
+              {
+                "question": "What is the process by which two different substances interact and form a new substance with different properties from the original substances?",
+                "multipleChoice": [ "Diffusion", "Osmosis", "Chemical Reaction", "Fusion" ],
+                "answer": "Chemical Reaction"
+              },
+              {
+                "question": "What type of reaction does not require a catalyst?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Spontaneous", "Non-Spontaneous" ],
+                "answer": "Exothermic"
+              },
+              {
+                "question": "What type of reaction requires a catalyst?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Spontaneous", "Non-Spontaneous" ],
+                "answer": "Non-Spontaneous"
+              },
+              {
+                "question": "What type of reaction releases energy?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Spontaneous", "Non-Spontaneous" ],
+                "answer": "Exothermic"
+              },
+              {
+                "question": "What type of reaction absorbs energy?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Spontaneous", "Non-Spontaneous" ],
+                "answer": "Endothermic"
+              },
+              {
+                "question": "What type of reaction occurs without an input of energy?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Spontaneous", "Non-Spontaneous" ],
+                "answer": "Spontaneous"
+              },
+              {
+                "question": "What is the process by which the molecules of a substance move from an area of higher concentration to an area of lower concentration?",
+                "multipleChoice": [ "Diffusion", "Osmosis", "Chemical Reaction", "Fusion" ],
+                "answer": "Diffusion"
+              },
+              {
+                "question": "What is the process by which water moves through a semi-permeable membrane?",
+                "multipleChoice": [ "Diffusion", "Osmosis", "Chemical Reaction", "Fusion" ],
+                "answer": "Osmosis"
+              },
+              {
+                "question": "What type of reaction does not involve the formation of a new substance?",
+                "multipleChoice": [ "Reversible", "Irreversible", "Exothermic", "Endothermic" ],
+                "answer": "Reversible"
+              },
+              {
+                "question": "What type of reaction involves the formation of a new substance?",
+                "multipleChoice": [ "Reversible", "Irreversible", "Exothermic", "Endothermic" ],
+                "answer": "Irreversible"
+              },
+              {
+                "question": "What type of reaction involves the breaking of chemical bonds?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Synthesis", "Decomposition" ],
+                "answer": "Decomposition"
+              },
+              {
+                "question": "What type of reaction involves the formation of chemical bonds?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Synthesis", "Decomposition" ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What type of reaction involves both the formation and breaking of chemical bonds?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Synthesis", "Decomposition" ],
+                "answer": "Synthesis"
+              },
+              {
+                "question": "What is an example of a reversible reaction?",
+                "multipleChoice": [
+                  "Burning of a candle",
+                  "Rusting of iron",
+                  "Photosynthesis",
+                  "Dissolving of sugar in water"
+                ],
+                "answer": "Dissolving of sugar in water"
+              },
+              {
+                "question": "What is the process by which energy is transferred through space in the form of electromagnetic waves?",
+                "multipleChoice": [ "Conduction", "Convection", "Radiation", "Evaporation" ],
+                "answer": "Radiation"
+              },
+              {
+                "question": "What is the process by which a liquid changes to a gas?",
+                "multipleChoice": [ "Conduction", "Convection", "Radiation", "Evaporation" ],
+                "answer": "Evaporation"
+              },
+              {
+                "question": "What type of reaction releases heat energy in the form of light or sound?",
+                "multipleChoice": [ "Exothermic", "Endothermic", "Synthesis", "Decomposition" ],
+                "answer": "Exothermic"
+              }
+            ]
+          }
+                          
+        ]
+    }
+]

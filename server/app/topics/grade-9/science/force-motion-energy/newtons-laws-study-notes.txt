@@ -1,0 +1,62 @@
+1. Newton’s First Law of Motion states that an object in motion will stay in motion and an object at rest will stay at rest, unless it is acted upon by an external force.
+2. Newton’s Second Law of Motion states that objects accelerate (speed up or slow down) in proportion to the force applied to them. The greater the force, the greater the acceleration.
+3. Newton’s Third Law of Motion states that for every action there is an equal and opposite reaction. When one object exerts a force on another, the second object exerts an equal and opposite force back on the first.
+
+4. Newton’s Law of Universal Gravitation states that every object in the universe is attracted to every other object by a force called gravity. The strength of the gravitational force between two objects depends on their masses and the distance between them.
+5. Momentum is the product of an object’s mass and velocity. An object with a larger mass or a higher velocity will have more momentum.
+6. Inertia is an object’s tendency to resist changes in its motion. The more massive an object is, the more inertia it has and the harder it is to change its motion.
+
+7. Friction is a force that opposes motion. It is caused by the surface of one object rubbing against the surface of another object. The amount of friction depends on the type of surface, the force of gravity, and the amount of lubricant present.
+8. Centripetal force is the force that causes an object to move in a curved path. This force acts on an object, pulling it toward the center of the curved path.
+
+9. Action-reaction pairs are two forces that act on different objects but are equal in magnitude and opposite in direction. For example, when you push against the ground, the ground pushes back against you with the same amount of force.
+10. The law of conservation of energy states that energy can neither be created nor destroyed; it can only be changed from one form to another.
+
+11. The law of conservation of momentum states that the total amount of momentum in a closed system remains the same. Momentum can be transferred between objects, but the total momentum remains the same.
+12. The law of conservation of angular momentum states that the total amount of angular momentum in a closed system remains the same. Angular momentum can be transferred between objects, but the total angular momentum remains the same.
+
+13. Inertial reference frames are frames of reference that are not accelerating; they are used to describe motion and forces.
+14. Newton’s law of viscosity states that a fluid will resist changes in its motion. The more viscous a fluid is, the more it will resist changes in its motion.
+15. The law of conservation of mass states that matter can neither be created nor destroyed. The total amount of mass in a system remains the same, although it may change form.
+
+16. The law of conservation of angular momentum states that the total amount of angular momentum in a closed system remains the same. Angular momentum can be transferred between objects, but the total angular momentum remains the same.
+17. The law of conservation of energy states that energy can neither be created nor destroyed; it can only be changed from one form to another.
+18. The law of conservation of momentum states that the total amount of momentum in a closed system remains the same. Momentum can be transferred between objects, but the total momentum remains the same.
+19. The law of inertia states that an object in motion will stay in motion and an object at rest will stay at rest, unless it is acted upon by an external force.
+20. Friction is a force that opposes motion. It is caused by the surface of one object rubbing against the surface of another object. The amount of friction depends on the type of surface, the force of gravity, and the amount of lubricant present.
+
+21. Centripetal force is the force that causes an object to move in a curved path. This force acts on an object, pulling it toward the center of the curved path.
+22. Inertia is an object’s tendency to resist changes in its motion. The more massive an object is, the more inertia it has and the harder it is to change its motion.
+23. Newton’s Law of Universal Gravitation states that every object in the universe is attracted to every other object by a force called gravity. The strength of the gravitational force between two objects depends on their masses and the distance between them.
+24. Momentum is the product of an object’s mass and velocity. An object with a larger mass or a higher velocity will have more momentum.
+25. Action-reaction pairs are two forces that act on different objects but are equal in magnitude and opposite in direction. For example, when you push against the ground, the ground pushes back against you with the same amount of force.
+
+26. Inertial reference frames are frames of reference that are not accelerating; they are used to describe motion and forces.
+27. Newton’s law of viscosity states that a fluid will resist changes in its motion. The more viscous a fluid is, the more it will resist changes in its motion.
+28. The law of conservation of mass states that matter can neither be created nor destroyed. The total amount of mass in a system remains the same, although it may change form.
+29. The law of conservation of angular momentum states that the total amount of angular momentum in a closed system remains the same. Angular momentum can be transferred between objects, but the total angular momentum remains the same.
+30. The law of conservation of energy states that energy can neither be created nor destroyed; it can only be changed from one form to another.
+
+31. The law of conservation of momentum states that the total amount of momentum in a closed system remains the same. Momentum can be transferred between objects, but the total momentum remains the same.
+32. Newton’s First Law of Motion states that an object in motion will stay in motion and an object at rest will stay at rest, unless it is acted upon by an external force.
+33. Newton’s Second Law of Motion states that objects accelerate (speed up or slow down) in proportion to the force applied to them. The greater the force, the greater the acceleration.
+34. Newton’s Third Law of Motion states that for every action there is an equal and opposite reaction. When one object exerts a force on another, the second object exerts an equal and opposite force back on the first.
+35. Friction is a force that opposes motion. It is caused by the surface of one object rubbing against the surface of another object. The amount of friction depends on the type of surface, the force of gravity, and the amount of lubricant present.
+
+36. Centripetal force is the force that causes an object to move in a curved path. This force acts on an object, pulling it toward the center of the curved path.
+37. Action-reaction pairs are two forces that act on different objects but are equal in magnitude and opposite in direction. For example, when you push against the ground, the ground pushes back against you with the same amount of force.
+38. The law of conservation of energy states that energy can neither be created nor destroyed; it can only be changed from one form to another.
+39. The law of conservation of momentum states that the total amount of momentum in a closed system remains the same. Momentum can be transferred between objects, but the total momentum remains the same.
+40. The law of conservation of angular momentum states that the total amount of angular momentum in a closed system remains the same. Angular momentum can be transferred between objects, but the total angular momentum remains the same.
+
+41. Inertial reference frames are frames of reference that are not accelerating; they are used to describe motion and forces.
+42. Newton’s law of viscosity states that a fluid will resist changes in its motion. The more viscous a fluid is, the more it will resist changes in its motion.
+43. The law of conservation of mass states that matter can neither be created nor destroyed. The total amount of mass in a system remains the same, although it may change form.
+44. The law of inertia states that an object in motion will stay in motion and an object at rest will stay at rest, unless it is acted upon by an external force.
+45. Newton’s Law of Universal Gravitation states that every object in the universe is attracted to every other object by a force called gravity. The strength of the gravitational force between two objects depends on their masses and the distance between them.
+
+46. Momentum is the product of an object’s mass and velocity. An object with a larger mass or a higher velocity will have more momentum.
+47. Inertia is an object’s tendency to resist changes in its motion. The more massive an object is, the more inertia it has and the harder it is to change its motion.
+48. Action-reaction pairs are two forces that act on different objects but are equal in magnitude and opposite in direction. For example, when you push against the ground, the ground pushes back against you with the same amount of force.
+49. The law of conservation of energy states that energy can neither be created nor destroyed; it can only be changed from one form to another.
+50. The law of conservation of momentum states that the total amount of momentum in a closed system remains the same. Momentum can be transferred between objects, but the total momentum remains the same.
